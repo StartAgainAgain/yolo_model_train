@@ -1,0 +1,98 @@
+{
+  "version": "4.2.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "三角体",
+      "score": null,
+      "points": [
+        [
+          488.7962962962963,
+          453.38888888888897
+        ],
+        [
+          624.3518518518518,
+          453.38888888888897
+        ],
+        [
+          624.3518518518518,
+          592.6481481481483
+        ],
+        [
+          488.7962962962963,
+          592.6481481481483
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "圆柱体",
+      "score": null,
+      "points": [
+        [
+          753.2407407407408,
+          471.90740740740745
+        ],
+        [
+          901.3888888888888,
+          471.90740740740745
+        ],
+        [
+          901.3888888888888,
+          610.4259259259261
+        ],
+        [
+          753.2407407407408,
+          610.4259259259261
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "立方体",
+      "score": null,
+      "points": [
+        [
+          1098.4259259259263,
+          468.20370370370375
+        ],
+        [
+          1229.0,
+          468.20370370370375
+        ],
+        [
+          1229.0,
+          611.9074074074075
+        ],
+        [
+          1098.4259259259263,
+          611.9074074074075
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "4.png",
+  "imageData": null,
+  "imageHeight": 899,
+  "imageWidth": 1230
+}

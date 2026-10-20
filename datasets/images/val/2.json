@@ -1,0 +1,40 @@
+{
+  "version": "4.2.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "三角体",
+      "score": null,
+      "points": [
+        [
+          1007.5871559633031,
+          481.3486238532111
+        ],
+        [
+          1174.1926605504586,
+          481.3486238532111
+        ],
+        [
+          1174.1926605504586,
+          618.5963302752295
+        ],
+        [
+          1007.5871559633031,
+          618.5963302752295
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "2.png",
+  "imageData": null,
+  "imageHeight": 886,
+  "imageWidth": 1226
+}
