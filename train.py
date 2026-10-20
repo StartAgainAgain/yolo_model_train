@@ -30,12 +30,12 @@ def parse_args():
                         help="训练轮数 (默认: 100)")
     parser.add_argument("--imgsz", type=int, default=640,
                         help="输入图片尺寸 (默认: 640)")
-    parser.add_argument("--batch", type=int, default=16,
-                        help="批大小 (默认: 16)")
+    parser.add_argument("--batch", type=int, default=4,
+                        help="批大小 (默认: 4)")
     parser.add_argument("--device", default="cpu",
                         help="训练设备: cpu / 0 / 0,1 (默认: cpu)")
-    parser.add_argument("--workers", type=int, default=4,
-                        help="数据加载线程数 (默认: 4)")
+    parser.add_argument("--workers", type=int, default=0,
+                        help="数据加载线程数 (默认: 0)")
     parser.add_argument("--name", default="exp",
                         help="实验名称 (默认: exp)")
     parser.add_argument("--resume", action="store_true",
