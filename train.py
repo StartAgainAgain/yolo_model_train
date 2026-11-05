@@ -37,7 +37,7 @@ def parse_args():
     parser.add_argument("--workers", type=int, default=0,
                         help="数据加载线程数 (默认: 0)")
     parser.add_argument("--name", default="exp",
-                        help="实验名称 (默认: exp)")
+                        help="实验名称 (默认: exp1)")
     parser.add_argument("--resume", action="store_true",
                         help="从上次中断处继续训练")
     return parser.parse_args()
