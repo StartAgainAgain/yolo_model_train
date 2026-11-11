@@ -1,0 +1,5 @@
+# 仅采样窗口：python3 -m pip install -r requirements-sample.txt
+PyQt5>=5.15,<6
+# 窗口由 PyQt 提供，使用 headless 版避免 OpenCV 自带 Qt 插件冲突。
+opencv-python-headless>=4.8,<5
+numpy>=1.26,<3
